@@ -18,7 +18,7 @@
 	- [Item 14:如果函数不抛出异常请使用noexcept](./3.MovingToModernCpp/item14.md)
 	- [Item 15:尽可能的使用constexpr](./3.MovingToModernCpp/item15.md)
 	- [Item 16:让const成员函数线程安全](./3.MovingToModernCpp/item16.md)
-	- [Item 17:理解特殊成员函数函数的生成](./3.MovingToModernCpp/item17.md) 
+	- [Item 17:理解特殊成员函数的生成](./3.MovingToModernCpp/item17.md) 
 - [第四章 智能指针]()
 	- [Item 18:对于独占资源使用std::unique_ptr](./4.SmartPointers/item18.md)
 	- [Item 19:对于共享资源使用std::shared_ptr](./4.SmartPointers/item19.md)
